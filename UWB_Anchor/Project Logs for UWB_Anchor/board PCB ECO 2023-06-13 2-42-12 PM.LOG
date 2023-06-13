@@ -1,0 +1,23 @@
+Added Component: Designator=S1(SW_TS-1187A-B-A-B)
+Add component (AddParameter): Name = "Manufacturer"; Value = "XKB Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TS-1187A-B-A-B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "TS-1187A-B-A-B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=S2(SW_TS-1187A-B-A-B)
+Add component (AddParameter): Name = "Manufacturer"; Value = "XKB Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TS-1187A-B-A-B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "TS-1187A-B-A-B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TD_N Pin=J1-2
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=S1-A
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=S1-B
+Added Pin To Net: NetName=GND Pin=S1-C
+Added Pin To Net: NetName=GND Pin=S1-D
+Added Pin To Net: NetName=USER_BUTTON Pin=S2-A
+Added Pin To Net: NetName=USER_BUTTON Pin=S2-B
+Added Pin To Net: NetName=GND Pin=S2-C
+Added Pin To Net: NetName=GND Pin=S2-D
+Added Member To Class: ClassName=U_uwb_module Member=Component S1 TS-1187A-B-A-B
+Added Member To Class: ClassName=U_uwb_module Member=Component S2 TS-1187A-B-A-B

@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=ISO-GND Pin=J1-2
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Pin To Net: Unknown Pin: Pin S2-1
+Add Pin To Net: Unknown Pin: Pin S2-2
+Added Room: Name=main
+Added Room: Name=U_ethernet_PoE
+Added Room: Name=U_ethernet_RJ45
+Added Room: Name=U_ethernet_W5500
+Added Room: Name=U_uwb_module

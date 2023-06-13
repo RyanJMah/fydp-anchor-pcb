@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=ETH_C\S\ Pin=U3-6
+Added Pin To Net: NetName=ISO-GND Pin=J1-2
+Added Pin To Net: NetName=ETH_C\S\ Pin=U3-16
+Added Member To Class: ClassName=U_uwb_module Member=Component R17 Resistor

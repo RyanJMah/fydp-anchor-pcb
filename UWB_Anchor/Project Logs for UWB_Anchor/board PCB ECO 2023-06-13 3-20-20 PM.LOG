@@ -1,0 +1,8 @@
+Change component parameters: Designator = "C27" ("C27"); Footprint = "0603 - Capacitor"; UniqueID = "\EFSBJTRO\WDQRKEEV" ("\EFSBJTRO\WDQRKEEV")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = "50V X7R +/-10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C14663"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TD_N Pin=J1-2
