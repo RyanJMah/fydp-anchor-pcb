@@ -1,0 +1,33 @@
+Change Component Footprint: Designator=R3 Old Footprint=0805 - Resistor New Footprint=0603 - Resistor
+Change Component Footprint: Designator=R7 Old Footprint=0805 - Resistor New Footprint=0603 - Resistor
+Change Component Footprint: Designator=R8 Old Footprint=0805 - Resistor New Footprint=0603 - Resistor
+Change Component Footprint: Designator=R12 Old Footprint=0805 - Resistor New Footprint=0603 - Resistor
+Change component parameters: Designator = "R3" ("R3"); Footprint = "0805 - Resistor"; UniqueID = "\JPIGDUFS\KLDFLKMR" ("\JPIGDUFS\KLDFLKMR")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF499JT5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C23185"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "49.9"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "0805 - Resistor"; UniqueID = "\JPIGDUFS\CBMYMWGD" ("\JPIGDUFS\CBMYMWGD")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF499JT5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C23185"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "49.9"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "0805 - Resistor"; UniqueID = "\JPIGDUFS\JMKEYQPH" ("\JPIGDUFS\JMKEYQPH")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF499JT5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C23185"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "49.9"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "0805 - Resistor"; UniqueID = "\JPIGDUFS\PMPTYQGO" ("\JPIGDUFS\PMPTYQGO")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF499JT5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C23185"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "49.9"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TD_N Pin=J1-2

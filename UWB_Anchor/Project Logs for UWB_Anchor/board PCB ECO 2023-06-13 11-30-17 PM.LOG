@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=C3 Old Footprint=0603 - Capacitor New Footprint=1206 - Capacitor
+Change component parameters: Designator = "C3" ("C3"); Footprint = "0603 - Capacitor"; UniqueID = "\JPIGDUFS\XYGMWYPM" ("\JPIGDUFS\XYGMWYPM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FH (Guangdong Fenghua Advanced Tech)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "1206B102K202NT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = "2kV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C9196"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1nF/2kV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ISO-GND Pin=J1-2
