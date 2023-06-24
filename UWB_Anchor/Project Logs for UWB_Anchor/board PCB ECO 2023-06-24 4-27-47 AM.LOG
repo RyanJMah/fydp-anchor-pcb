@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=3.3V Pin=F2-2
+Removed Pin From Net: NetName=5V Pin=J5-1
+Removed Pin From Net: NetName=NetF2_1 Pin=U2-2
+Removed Pin From Net: NetName=NetF2_1 Pin=U2-4
+Removed Member From Class: ClassName=U_ethernet_PoE Member=J7
+Removed Member From Class: ClassName=U_ethernet_PoE Member=J8
+Added Pin To Net: NetName=5V Pin=F2-2
+Added Pin To Net: NetName=NetF2_1 Pin=J5-1
+Added Pin To Net: NetName=3.3V Pin=U2-2
+Added Pin To Net: NetName=3.3V Pin=U2-4
+Added Member To Class: ClassName=U_ethernet_PoE Member=Component J4 1x2 Header
+Added Member To Class: ClassName=U_ethernet_PoE Member=Component J5 1x2 Header
+Added Member To Class: ClassName=U_ethernet_W5500 Member=Component J6 1x2 Header

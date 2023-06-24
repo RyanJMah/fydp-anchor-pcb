@@ -1,0 +1,68 @@
+Removed Parameter Accuracy(%):2 from Part U2
+Removed Parameter Breakdown Voltage:64.4V from Part D2
+Removed Parameter Clamping Voltage:93.6V from Part D2
+Removed Parameter Code_JEDEC:TO-261 from Part U2
+Removed Parameter ComponentLink1Description:Manufacturer URL from Part U2
+Removed Parameter ComponentLink1URL:http://www.ti.com/ from Part U2
+Removed Parameter ComponentLink2Description:Datasheet from Part U2
+Removed Parameter ComponentLink2URL:http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=TLV1117LV33&fileType=pdf from Part U2
+Removed Parameter ComponentLink3Description:Package Specification from Part U2
+Removed Parameter ComponentLink3URL:http://www.ti.com/litv/pdf/mpds094a from Part U2
+Removed Parameter Composition:Zener from Part D2
+Removed Parameter Current:43A from Part D2
+Removed Parameter DatasheetVersion:SBVS160A from Part U2
+Removed Parameter DeviceName:-DP990X from Part U1
+Removed Parameter DeviceSetName:POE_PSU from Part U1
+Removed Parameter Direction:Unidirectional from Part D2
+Removed Parameter Eco-Plan:Green (RoHS & no Sb/Br) from Part U2
+Removed Parameter Element Configuration:Single from Part D2
+Removed Parameter Fixed Output Options(V):3.3 from Part U2
+Removed Parameter GateName_1:U1 from Part U1
+Removed Parameter Height:2.087mm from Part D2
+Removed Parameter Iout(Max)(A):1 from Part U2
+Removed Parameter Iq(Typ)(mA):0.05 from Part U2
+Removed Parameter Lead Free:Lead Free from Part D2
+Removed Parameter Leakage Current:1uA from Part D2
+Removed Parameter Length:4.5mm from Part D2
+Removed Parameter LibraryName:SparkFun-IC-Power from Part U1
+Removed Parameter Max Breakdown Voltage:71.2V from Part D2
+Removed Parameter Max Operating Temperature:150°C from Part D2
+Removed Parameter Max Power Dissipation:3.3W from Part D2
+Removed Parameter Max Reverse Leakage Current:1uA from Part D2
+Removed Parameter Max Surge Current:4.3A from Part D2
+Removed Parameter Min Breakdown Voltage:64.4V from Part D2
+Removed Parameter Min Operating Temperature:-65°C from Part D2
+Removed Parameter Mount:Surface Mount from Part D2
+Removed Parameter Mounting Technology:Surface Mount from Part U2
+Removed Parameter Number of Channels:1 from Part D2
+Removed Parameter Number of Elements:1 from Part D2
+Removed Parameter Number of Pins:2 from Part D2
+Removed Parameter Number of Unidirectional Channels:1 from Part D2
+Removed Parameter Operating Supply Voltage:58V from Part D2
+Removed Parameter PackageDescription:4-Pin Plastic Small Outline, Body 3.5 x 6.5 mm, Pitch 2.3 mm from Part U2
+Removed Parameter Package Quantity:5000 from Part D2
+Removed Parameter PackageReference:DCY0004A from Part U2
+Removed Parameter PackageVersion:4202506/B from Part U2
+Removed Parameter Packaging:Tape and Reel from Part D2
+Removed Parameter PartNumber:TLV1117LV33DCYR from Part U2
+Removed Parameter Peak Pulse Current:4.3A from Part D2
+Removed Parameter Peak Pulse Power:400W from Part D2
+Removed Parameter Polarity:Unidirectional from Part D2
+Removed Parameter Power Dissipation:400W from Part D2
+Removed Parameter Power Line Protection:No from Part D2
+Removed Parameter PROD_ID:IC-16251 from Part U1
+Removed Parameter REACH SVHC:No SVHC from Part D2
+Removed Parameter Reverse Breakdown Voltage:64.4V from Part D2
+Removed Parameter Reverse Standoff Voltage:58V from Part D2
+Removed Parameter SubFamily:Single Channel LDO from Part U2
+Removed Parameter SymbolName_1:POE_PSU from Part U1
+Removed Parameter Termination:SMD/SMT from Part D2
+Removed Parameter Test Current:1mA from Part D2
+Removed Parameter Vdo(Typ)(mV):1200 from Part U2
+Removed Parameter Vin(Max)(V):5.5 from Part U2
+Removed Parameter Vin(Min)(V):2 from Part U2
+Removed Parameter Voltage:58V from Part D2
+Removed Parameter Voltage Rating (DC):58V from Part D2
+Removed Parameter Vout Adj(Max)(V):3.3 from Part U2
+Removed Parameter Vout Adj(Min)(V):3.3 from Part U2
+Removed Parameter Width:2.79mm from Part D2

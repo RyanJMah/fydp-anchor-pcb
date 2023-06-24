@@ -1,0 +1,52 @@
+Removed Parameter Channel Polarity:N Channel from Part Q1
+Removed Parameter Channel Polarity:N Channel from Part Q2
+Removed Parameter Ciss Typ (pF):150 from Part Q1
+Removed Parameter Ciss Typ (pF):150 from Part Q2
+Removed Parameter ComponentLink1Description:Manufacturer URL from Part Q1
+Removed Parameter ComponentLink1Description:Manufacturer URL from Part Q2
+Removed Parameter ComponentLink1URL:http://www.onsemi.com/ from Part Q1
+Removed Parameter ComponentLink1URL:http://www.onsemi.com/ from Part Q2
+Removed Parameter ComponentLink2Description:Datasheet from Part Q1
+Removed Parameter ComponentLink2Description:Datasheet from Part Q2
+Removed Parameter ComponentLink2URL:http://www.onsemi.cn/pub_link/Collateral/MGSF2N02EL-D.PDF from Part Q1
+Removed Parameter ComponentLink2URL:http://www.onsemi.cn/pub_link/Collateral/MGSF2N02EL-D.PDF from Part Q2
+Removed Parameter ComponentLink3Description:Package Specification from Part Q1
+Removed Parameter ComponentLink3Description:Package Specification from Part Q2
+Removed Parameter ComponentLink3URL:http://www.onsemi.cn/pub_link/Collateral/318-08.PDF from Part Q1
+Removed Parameter ComponentLink3URL:http://www.onsemi.cn/pub_link/Collateral/318-08.PDF from Part Q2
+Removed Parameter Configuration:Single from Part Q1
+Removed Parameter Configuration:Single from Part Q2
+Removed Parameter Coss Typ (pF):130 from Part Q1
+Removed Parameter Coss Typ (pF):130 from Part Q2
+Removed Parameter Crss Typ (pF):45 from Part Q1
+Removed Parameter Crss Typ (pF):45 from Part Q2
+Removed Parameter DatasheetVersion:Rev. 3 from Part Q1
+Removed Parameter DatasheetVersion:Rev. 3 from Part Q2
+Removed Parameter ID Max (A):2.8 from Part Q1
+Removed Parameter ID Max (A):2.8 from Part Q2
+Removed Parameter Mounting Technology:Surface Mount from Part Q1
+Removed Parameter Mounting Technology:Surface Mount from Part Q2
+Removed Parameter PackageDescription:3-Pin Small Outline Transistor, Body 2.92 x 1.3 mm, Pitch 0.95 mm from Part Q1
+Removed Parameter PackageDescription:3-Pin Small Outline Transistor, Body 2.92 x 1.3 mm, Pitch 0.95 mm from Part Q2
+Removed Parameter PackageReference:SOT-23-3-318-08 from Part Q1
+Removed Parameter PackageReference:SOT-23-3-318-08 from Part Q2
+Removed Parameter Package Type:SOT-23-3 from Part Q1
+Removed Parameter Package Type:SOT-23-3 from Part Q2
+Removed Parameter PackageVersion:Rev. AP, 11/2009 from Part Q1
+Removed Parameter PackageVersion:Rev. AP, 11/2009 from Part Q2
+Removed Parameter Packing:Tape and Reel from Part Q1
+Removed Parameter Packing:Tape and Reel from Part Q2
+Removed Parameter PartNumber:MGSF2N02ELT1G from Part Q1
+Removed Parameter PartNumber:MGSF2N02ELT1G from Part Q2
+Removed Parameter PD Max (W):1.25 from Part Q1
+Removed Parameter PD Max (W):1.25 from Part Q2
+Removed Parameter Qrr Typ (nC):200 from Part Q1
+Removed Parameter Qrr Typ (nC):200 from Part Q2
+Removed Parameter RoHS:Pb-Free from Part Q1
+Removed Parameter RoHS:Pb-Free from Part Q2
+Removed Parameter V(BR)DSS Min (V):20 from Part Q1
+Removed Parameter V(BR)DSS Min (V):20 from Part Q2
+Removed Parameter VGS(th) Max (V):1 from Part Q1
+Removed Parameter VGS(th) Max (V):1 from Part Q2
+Removed Parameter VGS Max (V):8 from Part Q1
+Removed Parameter VGS Max (V):8 from Part Q2

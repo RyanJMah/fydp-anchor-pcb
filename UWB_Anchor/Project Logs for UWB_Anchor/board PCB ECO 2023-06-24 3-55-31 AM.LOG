@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=5V Pin=C9-2
+Removed Pin From Net: NetName=5V Pin=L1-2
+Change Component Footprint: Designator=L1 Old Footprint=FP-DFE21CC_EL-MFG New Footprint=FP-DFE252010C-IPC_A
+Change Component Comment : Designator=L1 Old Comment=DNP New Comment=2.2uH
+Change Component Designator: OldDesignator=J4 NewDesignator=J6
+Change Component Designator: OldDesignator=J5 NewDesignator=J7
+Change Component Designator: OldDesignator=J6 NewDesignator=J8
+Change Managed Component Library Link : Designator=L1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=4B620BF1-ECA0-45C8-92B2-A13E5BAC428D New ItemGUID=4959E53E-9749-4B42-AEFA-6F35C0C1BA0F Old RevisionGUID=34F60A36-A49F-4CBE-8753-92A5F4B53324 New RevisionGUID=3DD12F73-923C-4EFE-86D9-FF3242F2BBA4
+Change component parameters: Designator = "L1" ("L1"); Footprint = "FP-DFE21CC_EL-MFG"; UniqueID = "\JMVPPRZX\RCJJLEIE" ("\JMVPPRZX\RCJJLEIE")
+Added Component: Designator=J4(HDR1X2)
+Added Component: Designator=J5(HDR1X2)
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=5V Pin=J4-2
+Added Pin To Net: NetName=5V Pin=J5-1
+Added Pin To Net: NetName=POE_5V Pin=C9-2
+Added Pin To Net: NetName=POE_5V Pin=J5-2
+Added Pin To Net: NetName=POE_5V Pin=L1-2
+Added Net: Name=POE_5V
+Added Member To Class: ClassName=U_ethernet_PoE Member=Component J4 1x2 Header
+Added Member To Class: ClassName=U_ethernet_PoE Member=Component J5 1x2 Header

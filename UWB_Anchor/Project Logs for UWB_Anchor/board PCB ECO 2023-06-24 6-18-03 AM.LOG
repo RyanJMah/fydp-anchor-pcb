@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=R\E\S\E\T\ Pin=J2-4
+Removed Pin From Net: NetName=NetJ2_3 Pin=U3-2
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=J2-2
+Added Pin To Net: NetName=NetJ2_3 Pin=U3-3
+Added Pin To Net: NetName=NetJ2_4 Pin=J2-4
+Added Pin To Net: NetName=NetJ2_4 Pin=U3-2
+Added Net: Name=NetJ2_4
+Added Member To Class: ClassName=main Member=Component J2 1x4 Header
+Added Member To Class: ClassName=main Member=Component J3 1x3 Header
+Added Member To Class: ClassName=U_ethernet_PoE Member=Component J4 1x2 Header

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=PWR+ Pin=J1-9
+Removed Pin From Net: NetName=3.3V Pin=U2-2
+Removed Pin From Net: NetName=3.3V Pin=U2-4
+Added Component: Designator=F1(Wurth_0_MFG)
+Added Component: Designator=F2(Wurth_0_MFG)
+Added Pin To Net: NetName=PWR+ Pin=F1-2
+Added Pin To Net: NetName=3.3V Pin=F2-2
+Change Net Name : Old Net Name=PWR+ New Net Name=NetD2_1
+Added Pin To Net: NetName=NetF2_1 Pin=F2-1
+Added Pin To Net: NetName=NetF2_1 Pin=U2-2
+Added Pin To Net: NetName=NetF2_1 Pin=U2-4
+Added Net: Name=NetF2_1
+Added Pin To Net: NetName=PWR+ Pin=F1-1
+Added Pin To Net: NetName=PWR+ Pin=J1-9
+Added Net: Name=PWR+
+Added Member To Class: ClassName=U_ethernet_PoE Member=Component F1 696101000002
+Added Member To Class: ClassName=U_ethernet_PoE Member=Component F2 696101000002

@@ -1,0 +1,14 @@
+Change component parameters: Designator = "F1" ("F1"); Footprint = "Wurth_0_MFG"; UniqueID = "\JMVPPRZX\AGUPYGXN" ("\JMVPPRZX\AGUPYGXN")
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.mouser.ca/ProductDetail/Wurth-Elektronik/696101000002?qs=sGAEpiMZZMuxTAA0eeO5G4B6PR9Rh8ggTQiUs4G0%252BG%2FdkdTX7N7tpQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "696101000002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "710-696101000002"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F2" ("F2"); Footprint = "Wurth_0_MFG"; UniqueID = "\JMVPPRZX\HXWKUUKP" ("\JMVPPRZX\HXWKUUKP")
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.mouser.ca/ProductDetail/Wurth-Elektronik/696101000002?qs=sGAEpiMZZMuxTAA0eeO5G4B6PR9Rh8ggTQiUs4G0%252BG%2FdkdTX7N7tpQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "696101000002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "710-696101000002"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetJ3_2 New Net Name=UART_RX
+Change Net Name : Old Net Name=NetJ3_3 New Net Name=UART_TX

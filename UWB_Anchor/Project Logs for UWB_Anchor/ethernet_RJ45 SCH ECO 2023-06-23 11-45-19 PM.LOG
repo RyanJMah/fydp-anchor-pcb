@@ -1,0 +1,12 @@
+Removed Parameter DeviceName: from Part J1
+Removed Parameter DeviceSetName:MAGJACK-POE from Part J1
+Removed Parameter GateName_1:J1 from Part J1
+Removed Parameter J1:J1 from Part J1
+Removed Parameter J2:J2 from Part J1
+Removed Parameter J3:J3 from Part J1
+Removed Parameter J4,5:J4,5 from Part J1
+Removed Parameter J6:J6 from Part J1
+Removed Parameter J7,8:J7,8 from Part J1
+Removed Parameter LibraryName:SparkFun-Connectors from Part J1
+Removed Parameter PROD_ID:CONN-16253 from Part J1
+Removed Parameter SymbolName_1:MAGJACK_POE_SYMMETRICAL from Part J1

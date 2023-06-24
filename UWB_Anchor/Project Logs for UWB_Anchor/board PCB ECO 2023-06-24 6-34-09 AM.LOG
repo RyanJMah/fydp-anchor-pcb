@@ -1,0 +1,6 @@
+Change component parameters: Designator = "L1" ("L1"); Footprint = "FP-DFE252010C-IPC_A"; UniqueID = "\JMVPPRZX\RCJJLEIE" ("\JMVPPRZX\RCJJLEIE")
+Change component parameters (AddParameter): Name = "Link"; Value = "https://jlcpcb.com/parts/componentSearch?searchTxt=DFE252010P-2R2M%3DP2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "DFE252010P-2R2M=P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C882952"; VariantName = "[No Variations]"

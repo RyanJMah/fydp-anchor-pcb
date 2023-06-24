@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 IsVirtualBomDocumentRemoved=0
-OutputPath=
+OutputPath=Project Outputs for UWB_Anchor
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -318,7 +318,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QWDXCYMQ
 
 [Document17]
 DocumentPath=board.PcbDoc
@@ -369,7 +369,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HXOUMWEE
 
 [Document20]
 DocumentPath=..\libraries\led.PcbLib
@@ -388,6 +388,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OVTIRPKI
 
+[Document21]
+DocumentPath=UWB_Anchor.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -399,7 +416,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for UWB_Anchor
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1359,15 +1376,97 @@ NetClassAutoNamedHarnessEnabled=0
 NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
+[Comparison Options]
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+
+[SmartPDF]
+PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[Parameter Manager Custom Column Order]
+<Schematic>=Value,Supplier,"Supplier Part Number",Manufacturer,"Manufacturer Part Number",Rating,Link
+
+[Document22]
+DocumentPath=..\libraries\CAPPRD350W60D825H1300.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BKILZGOL
+
+[Document23]
+DocumentPath=..\libraries\RGA101M1HBK-0811G.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document24]
+DocumentPath=..\libraries\Fuse_Wurth_696101000002_eec.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GRTYMLBZ
+
+[Document25]
+DocumentPath=..\libraries\Fuse_Wurth_696101000002_eec_MFG.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SCTMUSED
+
 [LibraryUpdateOptions]
 SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=ethernet.SCHLIB
-ComponentDesignItemID0=ARJP11A-MASA-B-A-EMU2
-ComponentSymbolReference0=ARJP11A-MASA-B-A-EMU2
+ComponentLibraryIdentifier0=Fuse_Wurth_696101000002_eec.SchLib
+ComponentDesignItemID0=696101000002
+ComponentSymbolReference0=696101000002
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1389,36 +1488,12 @@ ParameterName1=Component Kind
 ParameterUpdate1=1
 ParameterName2=Description
 ParameterUpdate2=1
-ParameterName3=DeviceName
+ParameterName3=Library Reference
 ParameterUpdate3=1
-ParameterName4=DeviceSetName
-ParameterUpdate4=1
-ParameterName5=GateName_1
-ParameterUpdate5=1
-ParameterName6=J1
-ParameterUpdate6=1
-ParameterName7=J2
-ParameterUpdate7=1
-ParameterName8=J3
-ParameterUpdate8=1
-ParameterName9=J4,5
-ParameterUpdate9=1
-ParameterName10=J6
-ParameterUpdate10=1
-ParameterName11=J7,8
-ParameterUpdate11=1
-ParameterName12=Library Reference
-ParameterUpdate12=1
-ParameterName13=LibraryName
-ParameterUpdate13=1
-ParameterName14=PROD_ID
-ParameterUpdate14=1
-ParameterName15=SymbolName_1
-ParameterUpdate15=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=ARJP11A-MASA-B-A-EMU2
+ModelName0=Wurth_0_MFG
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
@@ -1426,15 +1501,4 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
-
-[Comparison Options]
-ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
-ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
-ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
-ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
-ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
-ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
-
-[SmartPDF]
-PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
