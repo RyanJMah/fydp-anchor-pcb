@@ -1,10 +1,14 @@
 Protel Design System Design Rule Check
 PCB File : C:\shared\fydp\fydp-anchor-pcb\UWB_Anchor\board.PcbDoc
 Date     : 2023-06-24
-Time     : 7:51:25 AM
+Time     : 8:01:11 AM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (InNamedPolygon('GND_L02_P000')),(All)
-Rule Violations :0
+   Violation between Clearance Constraint: (Collision < 10mil) Between Polygon Region (276 hole(s)) GND And Track (3840mil,1000mil)(3840mil,3865mil) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Polygon Region (276 hole(s)) GND And Track (780mil,1000mil)(3840mil,1000mil) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Polygon Region (276 hole(s)) GND And Track (780mil,1000mil)(780mil,3865mil) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Polygon Region (276 hole(s)) GND And Track (780mil,3865mil)(3840mil,3865mil) on Keep-Out Layer 
+Rule Violations :4
 
 Processing Rule : Clearance Constraint (Gap=10mil) (InNamedPolygon('GND_L02_P000')),(All)
 Rule Violations :0
@@ -13,7 +17,11 @@ Processing Rule : Clearance Constraint (Gap=10mil) (InNamedPolygon('GND_L02_P000
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=10mil) (InNamedPolygon('3.3V_L03_P011')),(All)
-Rule Violations :0
+   Violation between Clearance Constraint: (Collision < 10mil) Between Polygon Region (192 hole(s)) PWR And Track (3840mil,1000mil)(3840mil,3865mil) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Polygon Region (192 hole(s)) PWR And Track (780mil,1000mil)(3840mil,1000mil) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Polygon Region (192 hole(s)) PWR And Track (780mil,1000mil)(780mil,3865mil) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Polygon Region (192 hole(s)) PWR And Track (780mil,3865mil)(3840mil,3865mil) on Keep-Out Layer 
+Rule Violations :4
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -55,7 +63,7 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 0
+Violations Detected : 8
 Waived Violations : 0
 PCB Health Issues : 0
 Time Elapsed        : 00:00:01
