@@ -1,0 +1,47 @@
+Change Component Designator: OldDesignator=D1 NewDesignator=D2
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=R14 NewDesignator=R15
+Change Component Designator: OldDesignator=R15 NewDesignator=R16
+Change Component Designator: OldDesignator=R16 NewDesignator=R17
+Change Component Designator: OldDesignator=R17 NewDesignator=R18
+Change Component Designator: OldDesignator=R18 NewDesignator=R19
+Change Component Designator: OldDesignator=R19 NewDesignator=R20
+Change Component Designator: OldDesignator=R20 NewDesignator=R21
+Change Component Designator: OldDesignator=R21 NewDesignator=R22
+Change Component Designator: OldDesignator=R22 NewDesignator=R23
+Change Component Designator: OldDesignator=R23 NewDesignator=R24
+Change Component Designator: OldDesignator=R24 NewDesignator=R25
+Change Component Designator: OldDesignator=R25 NewDesignator=R26
+Change Component Designator: OldDesignator=R26 NewDesignator=R27
+Change Component Designator: OldDesignator=R27 NewDesignator=R28
+Change Component Designator: OldDesignator=R28 NewDesignator=R29
+Change Component Designator: OldDesignator=R29 NewDesignator=R30
+Change Component Designator: OldDesignator=R30 NewDesignator=R31
+Change Component Designator: OldDesignator=R31 NewDesignator=R32
+Change Component Designator: OldDesignator=R32 NewDesignator=R33
+Change Component Designator: OldDesignator=R33 NewDesignator=R34
+Change Component Designator: OldDesignator=R34 NewDesignator=R35
+Change component parameters: Designator = "R13" ("R13"); Footprint = "RESAD1100W55L680D260"; UniqueID = "\JMVPPRZX\DIGPGLXK" ("\JMVPPRZX\DIGPGLXK")
+Change component parameters (AddParameter): Name = "Link"; Value = "https://jlcpcb.com/partdetail/21904-0603WAF1001T5E/C21190"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF1001T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C21190"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100 / 0.25W"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RESAD1100W55L680D260)
+Add component (AddParameter): Name = "Link"; Value = "https://jlcpcb.com/partdetail/21904-0603WAF1001T5E/C21190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF1001T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C21190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 / 0.25W"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=POE_5V Pin=R14-2
+Change Net Name : Old Net Name=NetD1_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetR26_1 New Net Name=NetR27_1
+Change Net Name : Old Net Name=NetR26_2 New Net Name=NetR27_2
+Change Net Name : Old Net Name=NetR27_2 New Net Name=NetR28_2
+Added Member To Class: ClassName=U_ethernet_PoE Member=Component R15 Resistor

@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=U_ethernet_PoE Member=R17
+Added Member To Class: ClassName=U_ethernet_PoE Member=Component D2 LED
+Added Member To Class: ClassName=U_ethernet_PoE Member=Component R14 Resistor
+Added Member To Class: ClassName=U_uwb_module Member=Component R16 Resistor
+Added Member To Class: ClassName=U_uwb_module Member=Component R18 Resistor
+Added Member To Class: ClassName=U_uwb_module Member=Component R20 Resistor
+Added Member To Class: ClassName=U_uwb_module Member=Component R22 Resistor
+Added Member To Class: ClassName=U_uwb_module Member=Component R24 Resistor
+Added Member To Class: ClassName=U_ethernet_W5500 Member=Component R26 Resistor
+Added Member To Class: ClassName=U_ethernet_W5500 Member=Component R28 Resistor
+Added Member To Class: ClassName=U_ethernet_W5500 Member=Component R30 Resistor
+Added Member To Class: ClassName=U_ethernet_W5500 Member=Component R32 Resistor
+Added Member To Class: ClassName=U_ethernet_W5500 Member=Component R34 Resistor

@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=U_ethernet_PoE Member=R16
+Change Component Footprint: Designator=R13 Old Footprint=0603 - Resistor New Footprint=RESAD1100W55L680D260
+Added Member To Class: ClassName=U_ethernet_PoE Member=Component R13 Resistor
+Added Member To Class: ClassName=U_uwb_module Member=Component R15 Resistor
+Added Member To Class: ClassName=U_uwb_module Member=Component R17 Resistor
+Added Member To Class: ClassName=U_uwb_module Member=Component R19 Resistor
+Added Member To Class: ClassName=U_uwb_module Member=Component R21 Resistor
+Added Member To Class: ClassName=U_uwb_module Member=Component R23 Resistor
+Added Member To Class: ClassName=U_ethernet_W5500 Member=Component R25 Resistor
+Added Member To Class: ClassName=U_ethernet_W5500 Member=Component R27 Resistor
+Added Member To Class: ClassName=U_ethernet_W5500 Member=Component R29 Resistor
+Added Member To Class: ClassName=U_ethernet_W5500 Member=Component R31 Resistor
+Added Member To Class: ClassName=U_ethernet_W5500 Member=Component R33 Resistor

@@ -1,14 +1,14 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 8:23:08 AM On 2023-06-24
+Start Output Generation At 9:45:49 PM On 2023-06-24
 
-Output: Bill of Materials
-Type  : BOM
-From  : Project [UWB_Anchor.PrjPcb]
-   Generated File[Bill of Materials-UWB_Anchor.xlsx]
+Output: Generates pick and place files
+Type  : Pick Place
+From  : PCB Document [board.PcbDoc]
+   Generated File[Pick Place for board.csv]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 8:23:09 AM On 2023-06-24
+Finished Output Generation At 9:45:50 PM On 2023-06-24
