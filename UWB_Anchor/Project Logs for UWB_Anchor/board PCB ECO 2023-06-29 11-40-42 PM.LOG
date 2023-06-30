@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=CS NewDesignator=TP5
+Change Component Designator: OldDesignator=MISO NewDesignator=TP3
+Change Component Designator: OldDesignator=MOSI NewDesignator=TP2
+Change Component Designator: OldDesignator=SCLK NewDesignator=TP4
+Added Component: Designator=TP1(Test Point)
+Added Pin To Net: NetName=GND Pin=TP1-1
+Added Member To Class: ClassName=main Member=Component TP1 Test Point

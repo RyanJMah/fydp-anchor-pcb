@@ -1,0 +1,15 @@
+Added Component: Designator=TP?(Test Point)
+Added Component: Designator=TP?(Test Point)
+Added Component: Designator=TP?(Test Point)
+Added Component: Designator=TP?(Test Point)
+Added Component: Designator=TP?(Test Point)
+Added Pin To Net: NetName=ETH_C\S\ Pin=TP?-1
+Added Pin To Net: NetName=ETH_MISO Pin=TP?-1
+Added Pin To Net: NetName=ETH_MOSI Pin=TP?-1
+Added Pin To Net: NetName=ETH_SCLK Pin=TP?-1
+Added Pin To Net: NetName=GND Pin=TP?-1
+Added Member To Class: ClassName=main Member=Component TP? Test Point
+Added Member To Class: ClassName=main Member=Component TP? Test Point
+Added Member To Class: ClassName=main Member=Component TP? Test Point
+Added Member To Class: ClassName=main Member=Component TP? Test Point
+Added Member To Class: ClassName=main Member=Component TP? Test Point

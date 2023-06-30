@@ -1,0 +1,12 @@
+Added Component: Designator=TP2(Test Point)
+Added Component: Designator=TP3(Test Point)
+Added Component: Designator=TP4(Test Point)
+Added Component: Designator=TP5(Test Point)
+Added Pin To Net: NetName=ETH_MOSI Pin=TP2-1
+Added Pin To Net: NetName=ETH_MISO Pin=TP3-1
+Added Pin To Net: NetName=ETH_SCLK Pin=TP4-1
+Added Pin To Net: NetName=ETH_C\S\ Pin=TP5-1
+Added Member To Class: ClassName=main Member=Component TP2 Test Point
+Added Member To Class: ClassName=main Member=Component TP3 Test Point
+Added Member To Class: ClassName=main Member=Component TP4 Test Point
+Added Member To Class: ClassName=main Member=Component TP5 Test Point

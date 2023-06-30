@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=TP? NewDesignator=TP1
+Change Component Designator: OldDesignator=TP? NewDesignator=TP2
+Change Component Designator: OldDesignator=TP? NewDesignator=TP3
+Change Component Designator: OldDesignator=TP? NewDesignator=TP4
+Change Component Designator: OldDesignator=TP? NewDesignator=TP5
+Added Member To Class: ClassName=main Member=Component TP1 Test Point
+Added Member To Class: ClassName=main Member=Component TP3 Test Point
+Added Member To Class: ClassName=main Member=Component TP4 Test Point
+Added Member To Class: ClassName=main Member=Component TP5 Test Point
